@@ -2,7 +2,8 @@
 
 Учебный проект по курсу «Python для анализа данных»: разведывательный анализ (EDA) резюме с hh.ru — от преобразования «сырых» текстовых признаков до очистки данных от дубликатов, пропусков и выбросов.
 Ссылка на исходный датасет: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view
-Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:skillfactory+MIFIML-1sem+2026+type@asset+block/ExchangeRates.zip
+Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: 
+https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:skillfactory+MIFIML-1sem+2026+type@asset+block/ExchangeRates.zip
 
 ## Данные
 
